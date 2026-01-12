@@ -7,3 +7,4 @@ plotly
 matplotlib
 wordcloud
 openpyxl
+Sastrawi
